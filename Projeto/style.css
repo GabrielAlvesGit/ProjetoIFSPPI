@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.header-Menu{
+    display: flex;
+    
+}
+.nav-Menu{
+    display: flex;
+    
+}
+.ul-Menu{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
